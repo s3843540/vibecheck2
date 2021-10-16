@@ -1,0 +1,33 @@
+.navbar {
+    border-bottom: 1px solid #eaeaea;
+}
+
+.navbar-brand {
+    margin-left: 10px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    letter-spacing: 3.4px;
+    word-spacing: 6px;
+    font-weight: 400;
+    text-decoration: none solid rgb(68, 68, 68);
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase;
+}
+
+.input-group {
+    padding-right: 5px;
+    max-width: 200px;
+}
+
+.input-group-addon {
+    padding-left: 2px;
+}
+
+.welcome {
+    padding-top: 8px;
+}
+
+a {
+    color: darkgray !important;
+    text-decoration: none; 
+}
